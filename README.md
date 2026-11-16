@@ -1,6 +1,6 @@
 ### Hi, I'm JustAnotherPU
 
-IT consultant by trade. Here I build software for cars, homes and networks that their vendors never meant to open up.
+I build software for cars, homes and networks that their vendors never meant to open up.
 
 #### What I work on
 
