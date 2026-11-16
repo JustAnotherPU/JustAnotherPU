@@ -23,7 +23,3 @@ IT consultant by trade. Here I build software for cars, homes and networks that 
 #### Merged upstream
 
 [EMHASS](https://github.com/davidusb-geek/emhass/pull/1344) (custom PV forecast recipe), [MGU Store](https://github.com/robertnisipeanu/mgu-store/pulls?q=author%3AJustAnotherPU) (render and Wi-Fi uplink fixes), [OBDb BMW X5](https://github.com/OBDb/BMW-X5/pull/223) (validated DME PIDs), [car-apps](https://github.com/IterioDev/car-apps/pull/14) (Tailscale SOCKS5 proxy).
-
-#### En bref
-
-Consultant IT de métier. Ici, mes projets perso : apps pour le BMW iDrive 7, solaire et domotique sous Home Assistant, réseau et auto-hébergement, IA locale. Issues et PR bienvenues, en français ou en anglais.
